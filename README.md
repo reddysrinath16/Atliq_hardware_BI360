@@ -2,13 +2,15 @@
 
 ## Project Overview
 
-AtliQ Hardware has been facing challenges in making data-driven decisions. This project aims to provide comprehensive visualizations and dashboards for various business operations, offering insights that support strategic decisions and improve business performance. This project demonstrates a comprehensive business intelligence solution for AtliQ Hardware, leveraging Power BI to enable data-driven decision-making across **Finance**, **Sales**, **Marketing**, and **Supply Chain**. The project showcases dashboard design, **DAX optimization**, and effective **data modeling** to address real-world business challenges.
+AtliQ Hardware has been facing challenges in making data-driven decisions. This project aims to provide comprehensive visualizations and dashboards for various business operations, offering insights that support strategic decisions and improve business performance. This project demonstrates a comprehensive business intelligence solution for AtliQ Hardware, leveraging Power BI to enable data-driven decision-making across **Finance**, **Sales**, **Marketing**, **Supply Chain** and **Executive**. The project showcases dashboard design, **DAX optimization**, and effective **data modeling** to address real-world business challenges.
 
 By using the capabilities of Power BI, we’ve built an interactive, real-time reporting system that allows for improved decision-making and performance tracking.
 
 ## Dashboard Overview
 
-🎥 [**Dashboard Overview Video**](https://youtu.be/1LnGP07XRPo)
+<p align="center">
+  <img src="https://github.com/reddysrinath16/Atliq_hardware_BI360/blob/main/DO.gif" alt="Dashboard Overview">
+</p>
 
 ## Live Dashboard Link
 Explore the live version of the dashboard hosted on Power BI Service here:
@@ -41,18 +43,19 @@ Explore the live version of the dashboard hosted on Power BI Service here:
 
 ## Tools and Technologies
 
-This project leverages multiple tools and technologies to facilitate business intelligence and data analytics:
+:small_orange_diamond: **Power BI Desktop**: The primary tool used to create and design interactive dashboards and reports.  
+:small_orange_diamond: **MySQL**: For querying and manipulating data, enabling deeper analysis and insights.  
+:small_orange_diamond: **DAX (Data Analysis Expressions)**: To create custom calculations and data transformations for meaningful insights.  
+:small_orange_diamond: **Power BI Service**: For publishing, sharing, and collaboration on reports and dashboards.  
+:small_orange_diamond: **DAX Studio**: Used for performance optimization of complex DAX queries.  
+:small_orange_diamond: **Excel**: Data preparation and initial analysis.
 
-- **Power BI Desktop**: The primary tool used to create and design interactive dashboards and reports.
-- **SQL**: For querying and manipulating data, enabling deeper analysis and insights.
-- **DAX (Data Analysis Expressions)**: To create custom calculations and data transformations for meaningful insights.
-- **Power BI Service**: For publishing, sharing, and collaboration on reports and dashboards.
-- **DAX Studio**: Used for performance optimization of complex DAX queries.
-- **Excel**: Data preparation and initial analysis.
 
 
 
 ## Model Overview
 **Data Model** used in this project, including the Snowflake schema and relationships between the fact and dimension tables:
 
-[![Model Overview Video](https://img.youtube.com/vi/yourdatamodelvideolink/0.jpg)](https://youtu.be/wVLckFx0ALk)
+<p align="center">
+  <img src="https://github.com/reddysrinath16/Atliq_hardware_BI360/blob/main/DM.gif" alt="Data Model Overview">
+</p>
